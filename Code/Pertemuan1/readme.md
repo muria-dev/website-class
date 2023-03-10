@@ -59,9 +59,10 @@ kalian bisa mencobanya satu satu sampai merasa puas dan paham, namun mungkin nan
 
 #### List 
 Terdapat tiga jenis list pada HTML, yaitu ordered list (daftar terurut), unordered list (daftar tidak terurut), dan definition list (daftar definisi).
-<ol>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ol>
+
+1. Ordered List (Daftar Terurut): digunakan untuk membuat daftar dengan nomor atau huruf sebagai indikator urutan. tag: (ol)(li)
+1. Unordered List (Daftar Tidak Terurut): digunakan untuk membuat daftar dengan bullet atau tanda lainnya sebagai indikator urutan. tag: (ul)(li)
+1. Definition List (Daftar Definisi): digunakan untuk membuat daftar dengan pasangan kata kunci dan definisi. tag: (dl)(dt)
+
+
 
