@@ -56,3 +56,12 @@ biasanya di gunakan untuk deskripsi atau suatu paragraf yang panjang
 
 di atas adalah tag yang digunakan untuk memformat teks pada HTML. Tag-tag ini digunakan untuk memberi gaya pada teks, seperti tebal, miring, garis bawah, coret, dan lain sebagainya.
 kalian bisa mencobanya satu satu sampai merasa puas dan paham, namun mungkin nanti kalau kalian sudah belajar CSS akan jarang menggunakan tag formating ini
+
+#### List 
+Terdapat tiga jenis list pada HTML, yaitu ordered list (daftar terurut), unordered list (daftar tidak terurut), dan definition list (daftar definisi).
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
+
