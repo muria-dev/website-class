@@ -57,12 +57,19 @@ biasanya di gunakan untuk deskripsi atau suatu paragraf yang panjang
 di atas adalah tag yang digunakan untuk memformat teks pada HTML. Tag-tag ini digunakan untuk memberi gaya pada teks, seperti tebal, miring, garis bawah, coret, dan lain sebagainya.
 kalian bisa mencobanya satu satu sampai merasa puas dan paham, namun mungkin nanti kalau kalian sudah belajar CSS akan jarang menggunakan tag formating ini
 
-#### List 
+#### List
+
 Terdapat tiga jenis list pada HTML, yaitu ordered list (daftar terurut), unordered list (daftar tidak terurut), dan definition list (daftar definisi).
 
 1. Ordered List (Daftar Terurut): digunakan untuk membuat daftar dengan nomor atau huruf sebagai indikator urutan. tag: (ol)(li)
 1. Unordered List (Daftar Tidak Terurut): digunakan untuk membuat daftar dengan bullet atau tanda lainnya sebagai indikator urutan. tag: (ul)(li)
 1. Definition List (Daftar Definisi): digunakan untuk membuat daftar dengan pasangan kata kunci dan definisi. tag: (dl)(dt)
 
+#### Table
 
+Table dalam HTML digunakan untuk menampilkan data dalam bentuk tabel yang terdiri dari baris dan kolom. Setiap tabel terdiri dari elemen-elemen HTML berikut:
 
+1. `<table>`: elemen ini digunakan untuk menandai awal dan akhir tabel.
+1. `<tr>`: elemen ini digunakan untuk menandai awal dan akhir baris dalam tabel.
+1. `<td>`: elemen ini digunakan untuk menandai awal dan akhir kolom dalam tabel.
+1. `<th>`: elemen ini digunakan untuk menandai header kolom dalam tabel.
